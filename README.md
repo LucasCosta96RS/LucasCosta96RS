@@ -13,4 +13,4 @@
   <img align="center" alt="LucasPython" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <div>
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/LucasCosta96RS/LucasCosta96RS/blob/output/github-contribution-grid-snake.svg)
