@@ -1,6 +1,6 @@
 ## Olá, eu sou o Lucas Costa
 
-- 🐍 Estou Atualmente estudando linguagem Python
+-  Estou Atualmente estudando no DevClub 🚀
 
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasCosta96RS&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
