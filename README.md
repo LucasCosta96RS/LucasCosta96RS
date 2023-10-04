@@ -1,11 +1,16 @@
 ## Olá, eu sou o Lucas Costa
 
-Sou um programador front-end, estou atualmente aprendendo e criando projetos usando as tecnologias:
+Sou um programador full stack, estou atualmente aprendendo e criando projetos usando as tecnologias:
 
 <div style="display: inline_block">
   <img align="center" alt="LucasHtml5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
   <img align="center" alt="LucasCss3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
   <img align="center" alt="LucasJS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="LucasJS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="LucasJS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" alt="LucasGit" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt="LucasDocker" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  
 <div>
 
 <br>
