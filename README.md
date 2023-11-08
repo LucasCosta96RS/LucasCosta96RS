@@ -1,6 +1,12 @@
-## Olá, eu sou o Lucas Costa
+# About Me:
+Full Stack Developer
+<br>
+Currently working on freelance projects
 
-Sou um programador full stack, estou atualmente aprendendo e criando projetos usando as tecnologias:
+## Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-costa-96-rs/) 
+
+## Tech Stack:
 
 <div style="display: inline_block">
   <img align="center" alt="LucasHtml5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
@@ -13,8 +19,9 @@ Sou um programador full stack, estou atualmente aprendendo e criando projetos us
   
 <div>
 
-<br>
-  
+
+
+## GitHub Stats:
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasCosta96RS&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCosta96RS&layout=compact&langs_count=16&theme=onedark"/>
