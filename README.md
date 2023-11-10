@@ -1,7 +1,7 @@
 # About Me:
 Full Stack Developer
 <br>
-Currently working on freelance projects
+Currently working on freelance projects.
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-costa-96-rs/) 
